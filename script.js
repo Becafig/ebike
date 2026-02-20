@@ -1,5 +1,5 @@
 const WHATSAPP_NUMBER = "552200000000";
-const SLIDER_IMAGES = ['/imagem1.jpg', '/imagem2.jpg'];
+const SLIDER_IMAGES = ['imagem1.jpg', 'imagem2.jpg'];
 let currentSlideIndex = 0;
 let sliderInterval;
 
